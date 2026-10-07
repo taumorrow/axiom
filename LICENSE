@@ -1,28 +1,28 @@
-# Taumorrow Demos License v3.1 — axiom
-## Noncommercial - Research-Free - Tau-Net-Friendly
+# Taumorrow Demos License v4.0 — axiom
+## Noncommercial - Research-Free
 
 Copyright (c) 2025-2026 Taumorrow (taumorrow@gmail.com). "Taumorrow" and "l0g1x" name the same author.
 
-This repository is licensed under the Taumorrow Demos License v3.1. The full text is the file `LICENSE` in the repository
-taumorrow/tau-lang-demos at commit ff7edec6beca145a0146aa466f1fe3f51a640e06:
-https://github.com/taumorrow/tau-lang-demos/blob/ff7edec6beca145a0146aa466f1fe3f51a640e06/LICENSE
-That text, at that commit, is part of these terms. It applies here with the following readings, which take the place of the
-parts of it that name the files and releases of tau-lang-demos:
+This repository is licensed under the Taumorrow Demos License v4.0. The full text is the file `LICENSE` in the
+repository taumorrow/tau-lang-demos at commit 61ffb7bbb405779a3f80d5c42504986a77718624:
+https://github.com/taumorrow/tau-lang-demos/blob/61ffb7bbb405779a3f80d5c42504986a77718624/LICENSE That text, at that commit, is part of these terms. It
+applies here with the following readings, which take the place of the parts of it that name the files and releases of
+tau-lang-demos:
 
-1. Materials. In this repository, "Materials" means the file `AXIOM.md` and every file added to this repository later that
-   does not carry its own license text. This file (`LICENSE`) states the terms. The lists of Method, Tutorial and Classic
-   Materials in section 1 of the full text, and its sentence on the archive, name files of tau-lang-demos; none of those
-   files is in this repository. The Materials of this repository are Tutorial Materials in the sense of section 1 of the
-   full text (the default class).
+1. Materials. In this repository, "Materials" means the file `AXIOM.md` and every file added to this repository later
+   that does not carry its own license text. This file (`LICENSE`) states the terms. The lists of Method, Tutorial and
+   Classic Materials in section 1 of the full text, and its sentence on the archive, name files of tau-lang-demos; none
+   of those files is in this repository. The Materials of this repository are Tutorial Materials in the sense of section
+   1 of the full text (the default class).
 
-2. What the Materials are (section 4 of the full text). This repository contains a document. It contains no specification
-   files, no part specifications, no wiring table, no queries and no records. This license makes no statement that any
-   system is fair, secure, or free of operator influence.
+2. What the Materials are (section 4 of the full text). This repository contains a document. It contains no
+   specification files, no part specifications, no wiring table, no queries and no records. This license makes no
+   statement that any system is fair, secure, or free of operator influence.
 
-3. All other parts of the full text apply as written, including the definitions in section 1 (among them "Commercial Use"
-   and "Tau-Net Ecosystem"), Tau Language and other works (section 2), the Method (section 3), the free grants (section 5),
-   other Commercial Use and the agreement in section 8 (sections 7 and 8), what is not claimed and the patent paragraph
-   (section 9), and the general terms (section 11).
+3. All other parts of the full text apply as written, including the definitions in section 1 (among them "Commercial
+   Use", "Training" and "takes the Materials"), Tau Language and other works (section 2), the Method (section 3), the
+   free grants (section 5), other Commercial Use and the agreement in section 8 (sections 7 and 8), what is not claimed
+   and the patent paragraph (section 9), and the general terms (section 11).
 
 4. Attribution (section 5 of the full text): keep this file with every copy or substantial portion of the Materials; its
    reference to the full text stands for "this license text". Credit "Taumorrow" in derived works, deployments and
@@ -31,12 +31,16 @@ parts of it that name the files and releases of tau-lang-demos:
 5. Earlier versions (in place of section 10, items 1 and 2, of the full text).
    - Releases of this repository before commit 6cd4cc0 shipped without a license text. This text does not change what
      applies to them.
-   - Commit 6cd4cc0 (3 October 2026) carried the full text of the Taumorrow Demos License v3.0; that release remains under
-     v3.0. Rights granted under it are not revoked by this text. Nothing here is retroactive.
+   - Commit 6cd4cc0 (3 October 2026) carried the full text of the Taumorrow Demos License v3.0; that release remains
+     under v3.0.
+   - Commit 31634492655869ddb4c621b5c37883b48cbdf2d2 (5 October 2026) carried the text of v3.1, with a grant for an
+     ecosystem named there; that release remains under v3.1.
+   - Rights granted under those texts are not revoked by this one. Nothing here is retroactive.
    - Items 3 and 4 of section 10 of the full text apply: future releases may carry different terms, and each release
      carries its license in the `LICENSE` file at that commit. If you build on the Materials, pin a commit.
 
 Questions: taumorrow@gmail.com
 
-Version 3.1. The date of this release is the date of the commit that adds this text to the repository.
-Earlier versions in this repository: v3.0 (3 October 2026, commit 6cd4cc0); before that, no license text.
+Version 4.0. The date of this release is the date of the commit that adds this text to the repository. Earlier versions
+in this repository: v3.1 (5 October 2026, commit 3163449); v3.0 (3 October 2026, commit 6cd4cc0); before that, no
+license text.

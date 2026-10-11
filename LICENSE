@@ -1,11 +1,11 @@
-# Taumorrow Demos License v4.0 — axiom
+# Taumorrow Demos License v4.1 — axiom
 ## Noncommercial - Research-Free
 
 Copyright (c) 2025-2026 Taumorrow (taumorrow@gmail.com). "Taumorrow" and "l0g1x" name the same author.
 
-This repository is licensed under the Taumorrow Demos License v4.0. The full text is the file `LICENSE` in the
-repository taumorrow/tau-lang-demos at commit 61ffb7bbb405779a3f80d5c42504986a77718624:
-https://github.com/taumorrow/tau-lang-demos/blob/61ffb7bbb405779a3f80d5c42504986a77718624/LICENSE That text, at that commit, is part of these terms. It
+This repository is licensed under the Taumorrow Demos License v4.1. The full text is the file `LICENSE` in the
+repository taumorrow/tau-lang-demos at commit b42374f1d4a06bfa047225aca0ee7eeaa8a248ed:
+https://github.com/taumorrow/tau-lang-demos/blob/b42374f1d4a06bfa047225aca0ee7eeaa8a248ed/LICENSE That text, at that commit, is part of these terms. It
 applies here with the following readings, which take the place of the parts of it that name the files and releases of
 tau-lang-demos:
 
@@ -35,12 +35,14 @@ tau-lang-demos:
      under v3.0.
    - Commit 31634492655869ddb4c621b5c37883b48cbdf2d2 (5 October 2026) carried the text of v3.1, with a grant for an
      ecosystem named there; that release remains under v3.1.
+   - Commit 2bd1dc3 (7 October 2026) carried the text of v4.0, which granted no Commercial Use within the ecosystem to
+     anyone; that release remains under v4.0.
    - Rights granted under those texts are not revoked by this one. Nothing here is retroactive.
    - Items 3 and 4 of section 10 of the full text apply: future releases may carry different terms, and each release
      carries its license in the `LICENSE` file at that commit. If you build on the Materials, pin a commit.
 
 Questions: taumorrow@gmail.com
 
-Version 4.0. The date of this release is the date of the commit that adds this text to the repository. Earlier versions
-in this repository: v3.1 (5 October 2026, commit 3163449); v3.0 (3 October 2026, commit 6cd4cc0); before that, no
-license text.
+Version 4.1. The date of this release is the date of the commit that adds this text to the repository. Earlier versions
+in this repository: v4.0 (7 October 2026, commit 2bd1dc3); v3.1 (5 October 2026, commit 3163449); v3.0 (3 October 2026,
+commit 6cd4cc0); before that, no license text.
